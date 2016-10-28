@@ -1,0 +1,49 @@
+body {
+    background-color: #006400;
+}
+
+h1 {
+    color: #ff9b00;
+    font-family: "Sigmar One";
+    font-size: 50px
+}
+
+h2 {
+    color: #00bfbf;
+    font-family: "Sigmar One";
+}
+
+p {
+    color: #ff9b00;
+    font-family: "Patrick Hand";
+}
+
+ul {
+    color: #ff9b00;
+    font-family: "Patrick Hand";
+    font-size: 30px
+}
+
+ol {
+    color: #ff9b00;
+    font-family: "Patrick Hand";
+}
+
+a:link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #00bfbf;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #00bfbf;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #ff9b00;
+}
